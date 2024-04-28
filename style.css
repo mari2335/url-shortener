@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    font-family: "Tw Cen MT", serif;
+    font-size: 50px;
+}
+
+#list-area{
+    display: flex;
+    justify-content: center;
+}
+
+#list-url {
+    background-color: #fde3ff;
+    border-radius: 7px;
+    width: 800px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: dodgerblue;
+    color: white;
+    padding: 7px;
+    margin-left: 13px;
+}
+
+#input-area {
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    border-radius: 5px;
+    border-color: dodgerblue;
+}
+
+#input-area input {
+    width: 250px;
+}
+
+#list-url li {
+    padding: 20px;
+    font-size: 17px;
+}
